@@ -33,20 +33,20 @@ It can do a lot of cool things, some of them being:
 Click the "Fork" button on the top right corner of the repository page.
 Clone The Repository
 
-2. Clone the forked repository to your local machine:
-git clone <URL>
-cd Jarvis-Desktop-Voice-Assistant
-Create and Activate a Virtual Environment
+2. Clone the forked repository to your local machine:git clone <URL>
+  cd Jarvis-Desktop-Voice-Assistant
+  Create and Activate a Virtual Environment
 
-Create a virtual environment:
-python -m venv .venv
-Activate the virtual environment:
-For Windows:
-.venv\Scripts\activate
-For macOS/Linux:
-source .venv/bin/activate
+3. Create a virtual environment:
+   python -m venv .venv
+4. Activate the virtual environment:
+   For Windows:
+   .venv\Scripts\activate
+    For macOS/Linux:
+   source .venv/bin/activate
 This activates the virtual environment and should look like (venv) directory/of/your/project>
-Install Requirements
+
+* Install Requirements
 
 Install all the requirements given in requirements.txt by running the command pip install -r requirements.txt
 Install PyAudio
@@ -60,5 +60,4 @@ Now Enjoy with your own assistant !!!!
 Deactivate the Virtual Environment
 After you're done, deactivate the virtual environment:
 deactivate
-📌Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
