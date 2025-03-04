@@ -54,8 +54,10 @@ Install PyAudio
 Follow the instructions given here
 Run the Assistant
 
+
 Run the main script:
 python jarvis.py
+
 Now Enjoy with your own assistant !!!!
 Deactivate the Virtual Environment
 After you're done, deactivate the virtual environment:
